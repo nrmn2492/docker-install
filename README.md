@@ -1,2 +1,2 @@
 # docker-install
-docker &amp; docker-compose install
+git clone https://github.com/htsnorman/docker-install.git && cd docker-install && bash docker-install.sh
